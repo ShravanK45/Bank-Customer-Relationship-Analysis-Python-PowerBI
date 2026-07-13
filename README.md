@@ -177,30 +177,6 @@ The interactive dashboard includes:
 
 ---
 
-# 📁 Repository Structure
-
-```
-Bank-Customer-Relationship-Analysis
-
-├── README.md
-├── LICENSE
-│
-├── Dataset
-│   └── Bank_Customer_Data.csv
-│
-├── Python
-│   └── Banking_EDA.ipynb
-│
-├── Power BI
-│   └── Banking Dashboard.pbix
-│
-└── Screenshots
-    ├── 01_eda.png
-    └── 02_dashboard.png
-```
-
----
-
 # 🚀 Future Improvements
 
 - Customer Segmentation using Clustering
